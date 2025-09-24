@@ -24,12 +24,13 @@ dotenv for configuration
 📦 Setup Instructions
 
 Clone the repo:
-git clone https://github.com/Yatish2003/book-review-api.git
+git clone https://github.com/PRUTHVI-VANKA/book-review-api.git
 cd book-review-api
 
 
 Install dependencies:
 npm install
+npm run dev
 
 
 
